@@ -1,4 +1,4 @@
-﻿## Welcome to GitHub Pages
+﻿## Welb Pages
 
 You can use the [editor on GitHub](https://github.com/SquirrelBeater/DBDB/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
